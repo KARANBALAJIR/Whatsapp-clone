@@ -78,6 +78,7 @@ function Chat({ messages }) {
     </div>
   </div>
   );
+
 }
 
 export default Chat;
